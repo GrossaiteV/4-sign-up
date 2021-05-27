@@ -9,31 +9,8 @@ main {
     margin-left: calc(50% - 400px);
 }
 
-.left-column {
-    width: 40%;
-    float: left;
-    background-color: cadetblue;
-}
+div {
+    width: 50%;
+    float:right
 
-.bottom-links {
-}
-.bottom-links > a {
-}
-.bottom-links > span {
-}
-
-.main-title {
-    font-size: 60px;
-}
-
-.right-column {
-    width: 60%;
-    float: left;
-    background-color: coral;
-}
-
-.close {
-
-
-.form {
 }
