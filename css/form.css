@@ -1,11 +1,25 @@
 .form {
-}
+    display: inline-block;
+    width: 100%;
+    flex-direction: column;
+    gap: 40px;
+} 
 .form-row {
+    display: inline-block;
+    width: 100%;
+}
+.form-row + .form-row {
+    margin-top: 40px;
 }
 .form-row > label {
+    display: inline-block;
+    width: 100%;
 }
 .form-row > input {
-}
+    display: inline-block;
+    width: 100%;
+    font-size: 20px;
+}  
 .form-row > button {
 }
 .form-row > span {
