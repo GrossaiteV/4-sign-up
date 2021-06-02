@@ -44,6 +44,10 @@ main {
     bottom: 30px;
 }
 .bottom-links {
+    position: absolute;
+    left: 40px;
+    right: 40px;
+    bottom: 20px;
 }
 .bottom-links > a {
     color: #fff;
